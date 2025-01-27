@@ -16,5 +16,5 @@ jobs:
           feed_list: "https://zags.dev/posts/index.xml"
           retry_count: 3
           retry_wait_time: 3
-          committer_name: "github-actions[bot]"
+          committer_namename: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
