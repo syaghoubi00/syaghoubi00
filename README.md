@@ -67,6 +67,9 @@
 ### Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Unexpected Mess of Ansible Dependency Management](https://zags.dev/posts/ansible-dependency-problems/)
+- [Improving Git Commits](https://zags.dev/posts/improving-git-commits/)
+- [A Wild Blog Appeared!](https://zags.dev/posts/a-wild-blog-appeared/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
