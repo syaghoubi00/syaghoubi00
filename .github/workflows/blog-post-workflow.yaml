@@ -13,3 +13,5 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://zags.dev/posts/index.xml"
+          retry_count: 3
+          retry_wait_time: 3
