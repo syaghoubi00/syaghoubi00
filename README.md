@@ -1,5 +1,74 @@
 # Welcome to my GitHub profile! :wave:
 
+## About Me 👨‍💻
+
+### 🎓 Education & Background
+
+- 📚 Pursuing dual degrees in Economics and Computer Science
+- 📊 Passionate about all things Tech and Finance
+- 🌱 Continuously expanding knowledge through self-study and hands-on projects
+
+### 🏗️ Infrastructure Experience
+
+- 🔧 Managing a complex self-hosted homelab environment
+- 🤖 Infrastructure as Code (IaC) using:
+  - Ansible for configuration management and automation
+  - Terraform for infrastructure provisioning
+  - Container orchestration with Docker and Kubernetes
+- 🔄 CI/CD implementation and maintenance
+- 📊 Monitoring and observability with Grafana and Prometheus
+
+### 🚀 Current Projects & Goals
+
+- ☁️ Cloud Migration Initiative:
+  - Expanding from homelab to cloud environments
+  - Gaining hands-on experience with AWS, GCP, and Azure
+  - Implementing hybrid-cloud architectures
+  - Learning cloud-native best practices
+- 📈 FinTech Projects:
+  - Developing algorithmic trading systems
+  - Exploring quantitative analysis tools
+  - Building financial data pipelines
+  - Implementing trading strategies
+
+### 💡 Technical Interests
+
+- 🏗️ Infrastructure Engineering & DevOps
+- 📊 Quantitative Finance
+- 🤖 Process Automation
+- 🔐 Site Reliability Engineering (SRE)
+- 🌐 Open-source Software Development
+
+### 💼 Technical Philosophy
+
+- 🎯 Believe in infrastructure as code
+- 📈 Advocate for system reliability and monitoring
+- 🔄 Continuous learning and improvement
+- 🤝 Knowledge sharing within the tech community
+- 🎨 Clean and maintainable code practices
+
+### 🛠️ Technology Stack
+
+- 💻 Infrastructure: Ansible, Terraform, Docker (Or Podman), Kubernetes
+- 🔄 Version Control: Git, GitHub, GitLab
+- 🐧 Operating Systems: Various Linux distributions
+- 📊 Monitoring: Grafana, Prometheus
+- 🌐 Networking: NGINX, Cloudflare
+- 💾 Databases: PostgreSQL, Redis
+
+### 🎯 Future Plans
+
+- 🚀 Expand cloud provider expertise
+- 📈 Develop more sophisticated trading algorithms
+- 🤝 Contribute to open-source infrastructure tools and projects
+- 📝 Share knowledge through technical blog posts
+- 🔄 Build automated cloud-to-homelab failover systems
+
+### Latest Blogs Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ###
 
 <br clear="both">
