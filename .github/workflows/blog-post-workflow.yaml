@@ -1,22 +1,22 @@
-name: Get and Add latest Blog Posts
-on:
-  schedule:
-    - cron: "0 03 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write # To write the generated contents to the readme
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: "4"
-          # Comma separated list of RSS feeds to fetch from
-          feed_list: "https://zags.dev/posts/index.xml"
-          retry_count: 3
-          retry_wait_time: 3
-          committer_username: "github-actions[bot]"
-          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+# name: Get and Add latest Blog Posts
+# on:
+#   schedule:
+#     - cron: "0 03 * * *"
+#   workflow_dispatch:
+# permissions:
+#   contents: write # To write the generated contents to the readme
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           max_post_count: "4"
+#           # Comma separated list of RSS feeds to fetch from
+#           feed_list: "https://zags.dev/posts/index.xml"
+#           retry_count: 3
+#           retry_wait_time: 3
+#           committer_username: "github-actions[bot]"
+#           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
